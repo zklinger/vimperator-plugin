@@ -1,0 +1,10 @@
+This folder contains plugins for the excellent Firefox browser extension
+Vimperator [http://www.vimperator.org/vimperator]. Each plugin is implemented
+within its own javascript file.
+
+INSTALLATION:
+  * Copy the relevant *.js file to $HOME/vimperator/plugin directory.
+    You will have to create the plugin directory manually if it does not exist.
+  * Restart Firefox
+  * In Vimperator issue the :help using-plugins command to view plugin documentation
+
